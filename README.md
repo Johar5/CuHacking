@@ -1,1 +1,1 @@
-A simple social platform that uses AI and the Spotify API
+A simple social platform that uses AI and the Spotify API built using Gadget 
